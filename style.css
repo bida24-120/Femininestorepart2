@@ -1,4 +1,4 @@
-                 /* Basic page setup */
+/* Basic page setup */
         body {
             margin: 0;
             padding: 0;
@@ -15,7 +15,7 @@
             color: #333; 
         }
 
-        /* Navigation bar styling */
+ /* Navigation bar styling */
         .navbar {
             display: flex;
             justify-content: center;
